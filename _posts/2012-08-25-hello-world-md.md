@@ -1,4 +1,6 @@
-﻿---
+﻿encoding: UTF-8
+
+---
 　　layout: default
 　　title: 你好，世界
 　　---
